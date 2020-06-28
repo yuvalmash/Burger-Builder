@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yuvalmash/Burger-Builder/static/css/main.1c9478a9.chunk.css",
+    "main.js": "/yuvalmash/Burger-Builder/static/js/main.a30871ce.chunk.js",
+    "main.js.map": "/yuvalmash/Burger-Builder/static/js/main.a30871ce.chunk.js.map",
+    "runtime-main.js": "/yuvalmash/Burger-Builder/static/js/runtime-main.47e9be04.js",
+    "runtime-main.js.map": "/yuvalmash/Burger-Builder/static/js/runtime-main.47e9be04.js.map",
+    "static/js/2.d789290d.chunk.js": "/yuvalmash/Burger-Builder/static/js/2.d789290d.chunk.js",
+    "static/js/2.d789290d.chunk.js.map": "/yuvalmash/Burger-Builder/static/js/2.d789290d.chunk.js.map",
+    "index.html": "/yuvalmash/Burger-Builder/index.html",
+    "precache-manifest.bc22367883e5f611ed63215f252b13b6.js": "/yuvalmash/Burger-Builder/precache-manifest.bc22367883e5f611ed63215f252b13b6.js",
+    "service-worker.js": "/yuvalmash/Burger-Builder/service-worker.js",
+    "static/css/main.1c9478a9.chunk.css.map": "/yuvalmash/Burger-Builder/static/css/main.1c9478a9.chunk.css.map",
+    "static/js/2.d789290d.chunk.js.LICENSE.txt": "/yuvalmash/Burger-Builder/static/js/2.d789290d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47e9be04.js",
+    "static/js/2.d789290d.chunk.js",
+    "static/css/main.1c9478a9.chunk.css",
+    "static/js/main.a30871ce.chunk.js"
+  ]
+}
